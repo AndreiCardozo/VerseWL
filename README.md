@@ -1,4 +1,4 @@
-# Bot-Whitelist
+# Bot-Whitelist-Verse
  
 ### ⚙️ Configure .env rename .env
 
